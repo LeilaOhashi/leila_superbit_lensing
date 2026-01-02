@@ -1,0 +1,5 @@
+*.fits
+
+data/
+mcal/
+.DS_Store
